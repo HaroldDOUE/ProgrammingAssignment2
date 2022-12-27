@@ -46,3 +46,7 @@ cacheSolve <- function(x, ...) {
   
   m                             ## Return the matrix
 }
+
+
+data <- matrix(c(2, 1, 45, 50, 4, 12, 8, 7, 10), nrow=3, ncol=3)
+
